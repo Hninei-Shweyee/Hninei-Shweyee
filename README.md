@@ -4,7 +4,7 @@
 👩🏻‍💻 I'm passionate about **Software Engineering**<br/>
 👩🏻‍🎓 I'm currently a third year student and studying **Software Engineering** at [Chiang Mai University](https://www.cmu.ac.th/en/home)<br/>
 🎨 All of my projects are available at <br/>
-📫 How to reach me </br> **hnineishweyee311020@gmail.com**
+📫 How to reach me  **hnineishweyee311020@gmail.com**
 📄 Know about my experiences </br>
 
 <h3 align="left">Connect with me:</h3>
