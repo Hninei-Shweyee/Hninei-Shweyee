@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/hnineishweyee31" target="blank"><img align="center" src="www.linkedin.com/in/hnineishweyee31" alt="www.linkedin.com/in/hnineishweyee31" height="30" width="40" /></a>
-<a href="https://www.facebook.com/hnin.yee.3154/" target="blank"><img align="center" src="https://www.facebook.com/hnin.yee.3154/" alt="hnineishweyee" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/hnineishweyee31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hnin.yee.3154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 </p>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
